@@ -17,6 +17,11 @@ The Commands include:
 - -cap turns of capitalisation
 - -i starts the program
 
+# Imports
+- argparse
+- pyfiglet
+- itertools
+
 # Examples
 
 ![image of prowler](https://github.com/Salade10/StoreImages/blob/main/prowler1)
