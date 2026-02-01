@@ -1,6 +1,6 @@
 # PROWLER
 
-Prowler is a CLI tool for word list generation It generates combinations of words based on what you give it. 
+Prowler is a CLI tool coded in python for word list generation It generates combinations of words based on what you give it. 
 This is useful in ethical hacking for generating password lists.
 
 The Commands include:
