@@ -4,7 +4,7 @@ Here you can find all the mock client cases I've done. A mock Client case is whe
 
 # Example
 Mr Dupont wants to buy a £1 million villa in monaco for renting out. This will include:
-- <h2>**Client Brief**</h2>
+ <h2>**Client Brief**</h2>
 - who the client is
 - the clients objective
 - investment horizon, risk level, income goal
