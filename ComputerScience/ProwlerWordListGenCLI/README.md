@@ -19,6 +19,6 @@ The Commands include:
 
 # Examples
 
-![image of prowler](https://github.com/Salade10/StoreImages/prowler1)
+![image of prowler](https://github.com/Salade10/StoreImages/blob/main/prowler1)
 ![image of prowler](https://github.com/Salade10/StoreImages/blob/main/prowler2)
-![image of prowler](https://github.com/Salade10/StoreImages/prowler3)
+![image of prowler](https://github.com/Salade10/StoreImages/blob/main/prowler3)
