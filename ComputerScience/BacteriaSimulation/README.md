@@ -21,6 +21,9 @@ Constants:
 - start_pathogen_amount
 - cytokine_recruitment_threshold
 
+# Language
+- Python
+
 # Imports
 - turtle
 - random
