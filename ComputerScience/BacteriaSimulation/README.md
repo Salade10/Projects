@@ -35,7 +35,7 @@ Constants:
 
 # Examples
 
-![image of prowler](https://github.com/Salade10/StoreImages/blob/main/prowler1)
-![image of prowler](https://github.com/Salade10/StoreImages/blob/main/prowler2)
-![image of prowler](https://github.com/Salade10/StoreImages/blob/main/prowler3)
+![image of prowler](https://github.com/Salade10/StoreImages/blob/main/immunesim1)
+![image of prowler](https://github.com/Salade10/StoreImages/blob/main/immunesim2)
+![image of prowler](https://github.com/Salade10/StoreImages/blob/main/immunesim3)
 
