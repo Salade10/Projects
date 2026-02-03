@@ -6,20 +6,20 @@ The immune cells use a simplified version of cytokines to navigate towards the p
 Constants:
 
 - max_stride
-- agent_speed
+- immuneCell_speed
 - spawn_distance
 - pathogen_replication chance
 - kill_interval
 - killer_mutation_chance
 - agent_detection_radius
-- cytokine_decay_rate
+- cytokine_decay_rate (the rate at which the cytokines signal weakens)
 - cytokine_count
 - cytokine_response_cooldown
-- max_cytokines
-- max_agents
+- max_cytokines (sets the max number of cytokines at which the simulation is saturated)
+- max_immuneCell (sets the max number of immune cells)
 - step_size
-- start_pathogen_amount
-- cytokine_recruitment_threshold
+- start_pathogen_amount (controls the number of pathogens the simulation starts with)
+- cytokine_recruitment_threshold 
 
 # Language
 - Python
