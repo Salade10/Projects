@@ -5,7 +5,7 @@ Type: 5 bedroom luxury villa<br>
 Size: 320m² interior, 900m² exterior<br>
 Features: Pool, sea view, rental license<br>
 Estimated value: €1 million
-Average nightly rate: €1,000
+Average nightly rate: TBD
 
 # Client Brief
 Mr Dupont, 36, seeks to purchase a €1 million villa in Monaco.
@@ -24,10 +24,7 @@ competitive returns.
 
 
 # Property analysis
-| Villa Name | Nightly Rate | Occupancy | Key Features|
-|------------|--------------|-----------|--------------|
-| Villa A    |   964.47     |    20%  |  6 beds, 5 bathrooms, wifi, seaview| 
-| Villa B    |       |        | |  
+
 
 
 
