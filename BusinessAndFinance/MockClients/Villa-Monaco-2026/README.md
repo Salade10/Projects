@@ -24,10 +24,12 @@ competitive returns.
 
 
 # Property analysis
-| Column 1 | Column 2 | Column 3 |
-|----------|----------|----------|
-| Row 1    | Data     | More     |
-| Row 2    | Data     | More     |
+| Villa Name | Nightly Rate | Occupancy | Key Features|
+|------------|--------------|-----------|--------------|
+| Villa A    |   964.47     |    20%  |  6 beds, 5 bathrooms, wifi, seaview| 
+| Villa B    |       |        | |  
+
+
 
 
 
