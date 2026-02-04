@@ -1,8 +1,8 @@
 # Villa profile
-Name: Villa solara
-Location: Monaco
-Type: 5 bedroom luxury villa
-Size: 320m^2 interior, 900m^2 exterior
+Name: Villa solara<br>
+Location: Monaco<br>
+Type: 5 bedroom luxury villa<br>
+Size: 320m^2 interior, 900m^2 exterior<br>
 
 # Client Brief
 Mr Dupont, 36, seeks to purchase a £1 million villa in Monaco.
