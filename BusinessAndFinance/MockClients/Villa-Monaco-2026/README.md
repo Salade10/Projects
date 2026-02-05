@@ -34,7 +34,7 @@ Flat          | 4                  | Wifi, dedicated workspace                  
 Villa         | 7                  | Infinity pool, mountain view, beach access,cinema | £10,361      | Near national park
 Mean Pricing  | \----              | \----                                             | 3,328        | \----             
 
- I used airbnb and looked for villas similar to villa solara and took thir nightly rate then took the mean. Notably,
+ I used airbnb and looked for villas similar to villa solara and took the nightly rate then took the mean. Notably,
  There are not a lot of Villas for rent in monaco or on listing sites meaning the market is fairly open.
  56
 If the clients income goal sits at €100,000 they need an occupancy rate of: 
