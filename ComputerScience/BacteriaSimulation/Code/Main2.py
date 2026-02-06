@@ -5,6 +5,7 @@ import time
 import matplotlib.pyplot as plt
 from matplotlib.animation import FuncAnimation
 from collections import deque
+import os
 
 # Setup
 screen = Screen()
@@ -83,7 +84,6 @@ def save_plot(elapsed_time):
     save_directory = "~/Documents/Python code/simulation_results/sim6"  # Change this to your desired directory
     
     # Create the directory if it doesn't exist
-    import os
     if not os.path.exists(save_directory):
         os.makedirs(save_directory)
     
