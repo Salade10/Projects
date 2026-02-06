@@ -6,7 +6,7 @@ The immune cells use a simplified version of cytokines to navigate towards the p
 Constants:
 
 - max_stride
-- immuneCell_speed
+- immuneCell_speed (Determimes how fast an immuneCell moves) 
 - spawn_distance
 - pathogen_replication chance
 - kill_interval
