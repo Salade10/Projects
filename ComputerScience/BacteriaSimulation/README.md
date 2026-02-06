@@ -32,7 +32,7 @@ Constants:
 - matplotlib.pyplot
 - matplotlib.animation
 - collections
-
+- os
 # Examples
 
 ![image of prowler](https://github.com/Salade10/StoreImages/blob/main/immunesim1.png)
