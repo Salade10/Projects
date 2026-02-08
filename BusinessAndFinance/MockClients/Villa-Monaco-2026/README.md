@@ -3,7 +3,7 @@ Name: Villa solara<br>
 Location: Monaco<br>
 Type: 5 bedroom luxury villa<br>
 Size: 320m² interior, 900m² exterior<br>
-Features: Pool, sea view, rental license<br>
+Features: Pool, sea view, rental license,WiFi<br>
 Estimated value: €10 million
 Average nightly rate: €3 750 
 
@@ -46,20 +46,36 @@ Mean Pricing     | \----         | \----              |                         
 Median Pricing   | \----         | \----              |                                                  | €999                   |
 
 
- I used Airbnb and looked for villas similar to villa solara, and took the nightly rate then took the mean and the median, however, there is not a lot of market data due to the low rental villa market in monaco meaning the market is fairly open.
- I also recommend a nightly rate higher than the mean due to the high maintainance costs of the villa and due to the fact villa solara offers more than the other properties in the dataset due to it being a previously private villa. The reccommended nightly rate is still realistic due to the current market.
+ The properties are from Airbnb and are similar to villa solara, the nightly rate was then taken and the mean and the median were calculated, however, there is not a lot of market data due to the low rental villa market in monaco meaning the market is fairly open and will increase the success of Mr Dupont's property. This is also why we used villa data from surrounding regions such as Cap d'Ali.
+Mr Dupont should charge a nightly rate higher than both the mean and median due to the high maintainance costs of the villa and its 1 320² total land which is rare in Monaco. Villa solara also has 5 bedrooms which is not commonly found for rental villas in Monaco, a pool, a sea view and WiFi. Furthermore, Villa solara is a luxury property and premium clinets will pay a lot for the privacy and views the property offers. The reccommended nightly rate is still realistic due to the current market and Villa solara's worth the €3,750 nightly rate positions Villa Solara within Monaco’s luxury tier, where scarcity and privacy command a significant premium over standard Airbnb listings.
  
-Taking maintainance costs into account I recommend a target occupancy of at least 54 nights a year for a target €100,000 net profit:<br>
-### assuming a mid-range scenario
-costs of villa = €100,000 per year
+Taking maintainance costs into account a target occupancy of at least 54 nights a year is recommended to achieve €100,000 net profit:<br>
+### assuming a mid risk scenario
+costs of villa maintenance = €100,000 per year
+occupancy = 30%-50%
 
-income (€100,000) + costs (€100,000) = gross income (€200,000)
+income (€100 000) + costs (€100 000) = gross income (€200 000)
 
-nights needed = gross income (€200,000) / €3,750 = 54 nights (14.79%)
+nights needed = gross income (€200 000) / €3 750 = 54 nights (14.79%)
 
- dependent on the fluctuating costs Mr Dupont should would need between 43 and 60 nights per year to achieve his target net income.
+Even in a mid risk scenario Mr Dupont is well within safe occupancy rates and should not be concerned.
 
+### assuming a high risk scenario
+costs of villa maintenance = €200,000 per year
+occupancy = 0%-20%
 
+income (€100 000) + costs (€200 000) = gross income (€300 000)
+
+nights needed = gross income (300 000) / €3 750 = 80 nights (21.9%)
+
+In a high risk scenario Mr Dupont would have an occupancy rate lower than what it would need to be to achive his inscome goal.
+In this case is is recommened Mr Dupont tries to rent long-stay as well as short-term so that there is always someone in the property.
+If Mr Dupont is having trouble finding clients he should reach out to relocation agencies, corporate housing firms and film production companies. 
+It is also strongly advised that he reach out to a profesional accredited financial consulting firm who speacialises in luxury real estate so that he loses as little money as possible.
+Mr Dupont should also keep only as many staff as he needs to reduce maintenance costs and try to prevent huge money loss.
+
+Even in a mid risk scenario Mr Dupont is well within safe occupancy rates and should not be concerned.
+In a high risk scenario Mr Dupont's property will not reach the €100 000 without strategic financial adjustmesnts. This will not however stop the property from appreciating and the risk is mageable with diversification of rental channels.
 
 # Sources
 https://www.petrini.mc/en/rental-market-trends-monaco-2025.html
