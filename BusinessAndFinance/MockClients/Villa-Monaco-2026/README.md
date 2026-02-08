@@ -4,7 +4,7 @@ Location: Monaco<br>
 Type: 5 bedroom luxury villa<br>
 Size: 320m² interior, 900m² exterior<br>
 Features: Pool, sea view, rental license,WiFi<br>
-Estimated value: €10 million
+Estimated value: €10 million<br>
 Average nightly rate: €3 750 
 
 # Client Brief
