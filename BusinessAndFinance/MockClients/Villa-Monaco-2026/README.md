@@ -50,6 +50,9 @@ Median Pricing   | \----         | \----              |                         
 Mr Dupont should charge a nightly rate higher than both the mean and median due to the high maintainance costs of the villa and its 1 320² total land which is rare in Monaco. Villa solara also has 5 bedrooms which is not commonly found for rental villas in Monaco, a pool, a sea view and WiFi. Furthermore, Villa solara is a luxury property and premium clients will pay a lot for the privacy and views the property offers. The recommended nightly rate is still realistic due to the current market and Villa solara's worth the €3,750 nightly rate positions Villa Solara within Monaco’s luxury tier, where scarcity and privacy command a significant premium over standard Airbnb listings.
  
 Taking maintainance costs into account a target occupancy of at least 54 nights a year is recommended to achieve €100,000 net profit:<br>
+
+# Risks
+
 ### assuming a mid risk scenario
 costs of villa maintenance = €100,000 per year
 occupancy = 30%-50%
@@ -76,6 +79,9 @@ Mr Dupont should also keep only as many staff as he needs to reduce maintenance 
 
 Even in a mid risk scenario Mr Dupont is well within safe occupancy rates and should not be concerned.
 In a high risk scenario Mr Dupont's property will not reach the €100 000 without strategic financial adjustmesnts. This will not however stop the property from appreciating and the risk is mageable with diversification of rental channels.
+
+### Seasonal rental market
+
 
 # Sources
 https://www.petrini.mc/en/rental-market-trends-monaco-2025.html
