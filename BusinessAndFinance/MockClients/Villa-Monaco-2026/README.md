@@ -26,6 +26,8 @@ and the current occupancy rate is 50% (according to Airbnb).
 This increases the chance that Mr Duponts property will achieve strong occupancy and
 competitive returns. 
 
+### Seasonal rental market
+
 
 However, according to the YoY report from Airbnb the revenue change is down -21% from last year. This reflects
 market normalisation and increased mid-range supply rather than a drop in demand for luxury villas. Occupancy remains strong at around 50% and the scarcity of high end villas such as Mr Dupont's supports premium pricing.
@@ -79,8 +81,6 @@ Mr Dupont should also keep only as many staff as he needs to reduce maintenance 
 
 Even in a mid risk scenario Mr Dupont is well within safe occupancy rates and should not be concerned.
 In a high risk scenario Mr Dupont's property will not reach the €100 000 without strategic financial adjustmesnts. This will not however stop the property from appreciating and the risk is mageable with diversification of rental channels.
-
-### Seasonal rental market
 
 
 # Sources
