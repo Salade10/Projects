@@ -17,7 +17,7 @@ Constants:
 - cytokine_response_cooldown
 - max_cytokines (sets the max number of cytokines at which the simulation is saturated)
 - max_immuneCell (sets the max number of immune cells)
-- step_size
+- step_size (how far a cytokine moves)
 - start_pathogen_amount (controls the number of pathogens the simulation starts with)
 - cytokine_recruitment_threshold 
 
