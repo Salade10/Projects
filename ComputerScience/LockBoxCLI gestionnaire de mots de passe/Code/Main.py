@@ -18,6 +18,8 @@ def clear():
 def engine(option):
     if option == "1":
         cmd.sinscrire()
+    elif option == "2":
+        cmd.seconnecter()
 
 
 
@@ -54,6 +56,7 @@ class cmd:
 
         while not confirme:
             # obtenir le nom d'utilisateur et mot de passe
+            print("s'inscrire")
             print("\n====================")
             nom = input("\nEcrivez votre nom d'utilisateur: ")
             print("Mot de passe: ", end="", flush=True)
@@ -115,6 +118,41 @@ class cmd:
                         print("entrez O/N")
             else:
                 confirme = False
+    
+    # lassiser les gens a se connecter
+    def seconnecter():
+        clear()
+        dessine_le_titre(titre)
+
+        # obtenir le nom d'utilisateur et mot de passe
+        print("se connecter")
+        print("\n====================")
+        nom = input("\nEcrivez votre nom d'utilisateur: ")
+        print("Mot de passe: ", end="", flush=True)
+        mot_de_passe_1 = ""
+        mot_de_passe_2 = ""
+        while True:
+            # utiliser msvcrt pour s'afficher le mot de passse
+                
+            char = msvcrt.getch()
+            # entree = fin
+            if char == b"\r":
+                break
+
+            elif char == b"\x08":
+                if len(mot_de_passe_1) > 0:
+                    mot_de_passe_1 = mot_de_passe_1[:-1]
+                    print("\b \b", end="",flush=True)
+                
+            else:
+                mot_de_passe_1 += char.decode()
+                print("*", end="",flush=True)
+
+
+
+
+
+
 
 
 if __name__ == "__main__":
