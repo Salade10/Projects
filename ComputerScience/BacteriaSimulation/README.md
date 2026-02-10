@@ -33,6 +33,7 @@ Constants:
 - matplotlib.animation
 - collections
 - os
+- tkinter
 # Examples
 
 ![image of prowler](https://github.com/Salade10/StoreImages/blob/main/immunesim1.png)
