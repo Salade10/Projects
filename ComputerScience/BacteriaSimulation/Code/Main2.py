@@ -213,6 +213,7 @@ def spawn_single_immuneCell(x, y):
     if len(immuneCells) < max_immuneCells:
         create_immuneCell(x, y)
 
+# moves the cytokine and keeps it within the bounds of the screen
 def cytokine_move():
     for cytokine in list(cytokines):
         cytokine.goto(
@@ -262,6 +263,7 @@ def initialize():
     pathogen_counts.clear()
     immuneCell_counts.clear()
     cytokine_counts.clear()
+    
 
     
     # Create initial pathogens in random positions
@@ -310,6 +312,7 @@ def simulation():
         if not pathogens or len(pathogens) > 500:
             print("All pathogens eliminated. Restarting simulation...")
             save_plot(elapsed_time)
+            plt.close()
             last_clone_time, last_kill_time, last_cytokine = initialize()
             start_time = time.time()
 
