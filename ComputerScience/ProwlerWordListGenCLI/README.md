@@ -15,7 +15,7 @@ The Commands include:
 - -irs includes suffixes from files
 - -cbn generates all combinations of input
 - -cap turns of capitalisation
-- -i starts the program
+- -run starts the program
 
 # Language
 - Python
