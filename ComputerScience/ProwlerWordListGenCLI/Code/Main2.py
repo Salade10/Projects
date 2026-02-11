@@ -102,7 +102,7 @@ def generate_leet_variants(words, leet_map):
                 variants.extend(leet_map[c.lower()])
             chars.append(variants)
         all_variants.extend([''.join(p) for p in product(*chars)])
-    return all_variants
+    return set(all_variants)
 
 
 
@@ -186,7 +186,7 @@ parser.add_argument('-irp', '--incrandprefix', nargs='?', help='include random p
 parser.add_argument('-irs', '--incrandsuffix', nargs='?', help='include random prefix')
 parser.add_argument('-cbn', '--combinations', help='Generates all combinations of whatever you input')
 parser.add_argument('-cap', '--capitalise', action='store_true', help='Generate the word with no capitalisation')
-parser.add_argument('-i', '--interactive', action='store_true', help='Start interactive shell')
+parser.add_argument('-run', '--run', action='store_true', help='Start interactive shell')
 
 args = parser.parse_args()
 
