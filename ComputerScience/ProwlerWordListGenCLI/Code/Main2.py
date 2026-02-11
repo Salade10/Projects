@@ -42,14 +42,14 @@ def generate_case_permutations(word, prefix='', suffix='', irs=None, irp=None, c
         # Normalize irp
         if isinstance(irp, str) and irp.endswith(".txt"):
             with open(irp, 'r') as f:
-                irp_list = f.read().splitlines()
+                irp_list = set(f.read().splitlines())
         else:
             irp_list = list(irp or '')
 
         # Normalize irs
         if isinstance(irs, str) and irs.endswith(".txt"):
             with open(irs, 'r') as f:
-                irs_list = f.read().splitlines()
+                irs_list = set(f.read().splitlines())
         else:
             irs_list = list(irs or '')
 
@@ -64,17 +64,17 @@ def generate_case_permutations(word, prefix='', suffix='', irs=None, irp=None, c
 
     else:
         with open(word, 'r') as wordfile:
-            words = wordfile.read().splitlines()
+            words = set(wordfile.read().splitlines())
 
         if isinstance(irp, str) and irp.endswith(".txt"):
             with open(irp, 'r') as f:
-                irp_list = f.read().splitlines()
+                irp_list = set(f.read().splitlines())
         else:
             irp_list = list(irp or '')
 
         if isinstance(irs, str) and irs.endswith(".txt"):
             with open(irs, 'r') as f:
-                irs_list = f.read().splitlines()
+                irs_list = set(f.read().splitlines())
         else:
             irs_list = list(irs or '')
 
@@ -89,7 +89,7 @@ def generate_case_permutations(word, prefix='', suffix='', irs=None, irp=None, c
                         full_variant = prefix_item + prefix + new_word + suffix + suffix_item
                         variants.append(full_variant)
 
-    return variants
+    return set(variants)
 
 # Apply leetspeak to a list of words
 def generate_leet_variants(words, leet_map):
