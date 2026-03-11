@@ -168,6 +168,7 @@ def prowler_shell():
         shell_parser.add_argument('-cbn', '--combinations')
         shell_parser.add_argument('-cap', '--capitalise', action='store_true')
         shell_parser.add_argument('-clear','--clear', action='store_true')
+        shell_parser.add_argument('-cmdfile','--commandfile')
 
         try:
             args = shell_parser.parse_args(cmd_args)
@@ -179,6 +180,17 @@ def prowler_shell():
         if args.clear:
             os.system("cls")
             prowler_shell()
+        # Add a file full of commands to produce huge wordlists easily
+        elif args.commandfile:
+            # open the file
+            with open(args.commandfile) as f:
+                commands = [line.strip() for line in f]
+
+            # go through each command and execute it
+            for cmd in commands:
+                tokens = cmd.split()
+                args = parser.parse_args(tokens)
+                run_prowler(args)
         else:
             run_prowler(args)
 
@@ -198,6 +210,7 @@ parser.add_argument('-cbn', '--combinations', help='Generates all combinations o
 parser.add_argument('-cap', '--capitalise', action='store_true', help='Generate the word with no capitalisation')
 parser.add_argument('-run', '--run', action='store_true', help='Start interactive shell')
 parser.add_argument('-clear', '--clear', action='store_true', required=False, help='Clears the cmd')
+parser.add_argument('-cmdfile','--commandfile',help='Allows a file of commands to be read and executed')
 args = parser.parse_args()
 
 
