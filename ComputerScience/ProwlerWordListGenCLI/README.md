@@ -16,6 +16,8 @@ The Commands include:
 - -cbn generates all combinations of input
 - -cap turns of capitalisation
 - -run starts the program
+- -clear clears the intenral CLI
+- -cmdfile allows the user to execute a file full of commands
 
 # Language
 - Python
